@@ -1,0 +1,52 @@
+.fondo {background-color: rgb(193, 212, 247);}
+
+.titulo {color: aliceblue;font-size: xx-large;}
+
+.subtitulo {
+    color: rgb(104, 5, 5);
+    font-size: x-large;
+    
+
+}
+
+#tituloprin {font-size: 5em; font-style: italic;
+    margin:0.5em;
+
+}
+
+.Imgn1 {width: 950px; 
+    margin:auto;
+    padding: 3em;
+
+}
+     
+
+#inicioborder {border: 2px solid; background-color: rgb(10, 20, 65);}
+
+.seccions {color: rgb(133, 178, 199);
+     font-size: 1.35em;
+     margin: 2vw;
+     padding: 0px 3px 0px 3px;
+     transition: 1s;}
+
+.seccions:hover{
+    background-color: rgb(34, 62, 139);} 
+
+.bodyinf {width: 65vw;}
+
+    
+
+#List:hover  {
+    background-color: rgb(72, 91, 145);
+    text-decoration:underline;
+    width: 35vw;
+}
+
+#final {
+    padding:15px;
+    margin:auto;
+    border: 1px solid;
+}
+
+
+
